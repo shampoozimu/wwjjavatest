@@ -1,0 +1,255 @@
+['按用户查看1月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '1000.0', 'percentage_data': '3.2'}Actual_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:33.693000
+['按用户查看1月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7', 'goal_data': '1000.0', 'percentage_data': '2.8'}Actual_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:33.694000
+['按用户查看1月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6', 'goal_data': '1000.0', 'percentage_data': '2.4'}Actual_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:33.695000
+['按用户查看1月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '20.0', ' user_name': '销售部-用户5', 'goal_data': '1000.0', 'percentage_data': '2.0'}Actual_result:'
+'{'count': '20.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:33.695000
+['按用户查看1月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部子部门-用户4', 'goal_data': '1000.0', 'percentage_data': '1.6'}Actual_result:'
+'{'count': '16.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:33.696000
+['按用户查看1月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '12.0', ' user_name': '产品部-用户3', 'goal_data': '1000.0', 'percentage_data': '1.2'}Actual_result:'
+'{'count': '12.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:33.696000
+['按用户查看1月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户2', 'goal_data': '1000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '8.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:33.697000
+['按用户查看1月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '4.0', ' user_name': '设计部-用户1', 'goal_data': '1000.0', 'percentage_data': '0.4'}Actual_result:'
+'{'count': '4.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:33.697000
+['按用户查看1月产品分类销量数']中间统计排名: is wrong, expected_result:'
+'{'count': '144', 'goal_data': '8000', 'percentage_data': '1.8'}Actual_result:'
+'{'count': '144.0'},2019-03-21 14:57:33.698000
+['按用户查看1月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '1000.0', 'percentage_data': '3.2'}Actual_result:'
+'{'count': '设计部二级部门.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:33.698000
+['按用户查看1月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7', 'goal_data': '1000.0', 'percentage_data': '2.8'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:33.699000
+['按用户查看1月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6', 'goal_data': '1000.0', 'percentage_data': '2.4'}Actual_result:'
+'{'count': '设计部， 产品部.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:33.699000
+['按用户查看1月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '20.0', ' user_name': '销售部-用户5', 'goal_data': '1000.0', 'percentage_data': '2.0'}Actual_result:'
+'{'count': '销售部.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:33.700000
+['按用户查看1月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部子部门-用户4', 'goal_data': '1000.0', 'percentage_data': '1.6'}Actual_result:'
+'{'count': '设计部子部门.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:33.701000
+['按用户查看1月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '12.0', ' user_name': '产品部-用户3', 'goal_data': '1000.0', 'percentage_data': '1.2'}Actual_result:'
+'{'count': '产品部.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:33.701000
+['按用户查看1月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户2', 'goal_data': '1000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:33.702000
+['按用户查看1月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '4.0', ' user_name': '设计部-用户1', 'goal_data': '1000.0', 'percentage_data': '0.4'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:33.702000
+['按用户查看3月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '1000.0', 'percentage_data': '3.2'}Actual_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:35.650000
+['按用户查看3月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7', 'goal_data': '1000.0', 'percentage_data': '2.8'}Actual_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:35.651000
+['按用户查看3月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6', 'goal_data': '1000.0', 'percentage_data': '2.4'}Actual_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:35.651000
+['按用户查看3月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '20.0', ' user_name': '销售部-用户5', 'goal_data': '1000.0', 'percentage_data': '2.0'}Actual_result:'
+'{'count': '20.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:35.651000
+['按用户查看3月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部子部门-用户4', 'goal_data': '1000.0', 'percentage_data': '1.6'}Actual_result:'
+'{'count': '16.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:35.652000
+['按用户查看3月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '12.0', ' user_name': '产品部-用户3', 'goal_data': '1000.0', 'percentage_data': '1.2'}Actual_result:'
+'{'count': '12.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:35.652000
+['按用户查看3月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户2', 'goal_data': '1000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '8.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:35.652000
+['按用户查看3月产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '4.0', ' user_name': '设计部-用户1', 'goal_data': '1000.0', 'percentage_data': '0.4'}Actual_result:'
+'{'count': '4.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:35.653000
+['按用户查看3月产品分类销量数']中间统计排名: is wrong, expected_result:'
+'{'count': '144', 'goal_data': '8000', 'percentage_data': '1.8'}Actual_result:'
+'{'count': '144.0'},2019-03-21 14:57:35.653000
+['按用户查看3月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '1000.0', 'percentage_data': '3.2'}Actual_result:'
+'{'count': '设计部二级部门.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:35.653000
+['按用户查看3月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7', 'goal_data': '1000.0', 'percentage_data': '2.8'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:35.653000
+['按用户查看3月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6', 'goal_data': '1000.0', 'percentage_data': '2.4'}Actual_result:'
+'{'count': '设计部， 产品部.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:35.654000
+['按用户查看3月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '20.0', ' user_name': '销售部-用户5', 'goal_data': '1000.0', 'percentage_data': '2.0'}Actual_result:'
+'{'count': '销售部.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:35.654000
+['按用户查看3月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部子部门-用户4', 'goal_data': '1000.0', 'percentage_data': '1.6'}Actual_result:'
+'{'count': '设计部子部门.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:35.654000
+['按用户查看3月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '12.0', ' user_name': '产品部-用户3', 'goal_data': '1000.0', 'percentage_data': '1.2'}Actual_result:'
+'{'count': '产品部.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:35.655000
+['按用户查看3月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户2', 'goal_data': '1000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:35.655000
+['按用户查看3月产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '4.0', ' user_name': '设计部-用户1', 'goal_data': '1000.0', 'percentage_data': '0.4'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:35.655000
+['按用户查看第一季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '64.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '3000.0', 'percentage_data': '2.1'}Actual_result:'
+'{'count': '64.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:37.806000
+['按用户查看第一季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '56.0', ' user_name': '同部门下属-用户7', 'goal_data': '3000.0', 'percentage_data': '1.9'}Actual_result:'
+'{'count': '56.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:37.807000
+['按用户查看第一季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '48.0', ' user_name': '主辅部门-用户6', 'goal_data': '3000.0', 'percentage_data': '1.6'}Actual_result:'
+'{'count': '48.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:37.808000
+['按用户查看第一季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '40.0', ' user_name': '销售部-用户5', 'goal_data': '3000.0', 'percentage_data': '1.3'}Actual_result:'
+'{'count': '40.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:37.809000
+['按用户查看第一季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部子部门-用户4', 'goal_data': '3000.0', 'percentage_data': '1.1'}Actual_result:'
+'{'count': '32.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:37.809000
+['按用户查看第一季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '产品部-用户3', 'goal_data': '3000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '24.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:37.810000
+['按用户查看第一季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部-用户2', 'goal_data': '3000.0', 'percentage_data': '0.5'}Actual_result:'
+'{'count': '16.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:37.811000
+['按用户查看第一季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户1', 'goal_data': '3000.0', 'percentage_data': '0.3'}Actual_result:'
+'{'count': '8.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:37.811000
+['按用户查看第一季度产品分类销量数']中间统计排名: is wrong, expected_result:'
+'{'count': '288', 'goal_data': '24000', 'percentage_data': '1.2'}Actual_result:'
+'{'count': '288.0'},2019-03-21 14:57:37.812000
+['按用户查看第一季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '64.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '3000.0', 'percentage_data': '2.1'}Actual_result:'
+'{'count': '设计部二级部门.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:37.813000
+['按用户查看第一季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '56.0', ' user_name': '同部门下属-用户7', 'goal_data': '3000.0', 'percentage_data': '1.9'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:37.813000
+['按用户查看第一季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '48.0', ' user_name': '主辅部门-用户6', 'goal_data': '3000.0', 'percentage_data': '1.6'}Actual_result:'
+'{'count': '设计部， 产品部.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:37.814000
+['按用户查看第一季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '40.0', ' user_name': '销售部-用户5', 'goal_data': '3000.0', 'percentage_data': '1.3'}Actual_result:'
+'{'count': '销售部.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:37.814000
+['按用户查看第一季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部子部门-用户4', 'goal_data': '3000.0', 'percentage_data': '1.1'}Actual_result:'
+'{'count': '设计部子部门.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:37.815000
+['按用户查看第一季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '产品部-用户3', 'goal_data': '3000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '产品部.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:37.816000
+['按用户查看第一季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部-用户2', 'goal_data': '3000.0', 'percentage_data': '0.5'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:37.816000
+['按用户查看第一季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户1', 'goal_data': '3000.0', 'percentage_data': '0.3'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:37.817000
+['按用户查看第二季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '3000.0', 'percentage_data': '1.1'}Actual_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:39.714000
+['按用户查看第二季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7', 'goal_data': '3000.0', 'percentage_data': '0.9'}Actual_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:39.714000
+['按用户查看第二季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6', 'goal_data': '3000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:39.715000
+['按用户查看第二季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '20.0', ' user_name': '销售部-用户5', 'goal_data': '3000.0', 'percentage_data': '0.7'}Actual_result:'
+'{'count': '20.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:39.715000
+['按用户查看第二季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部子部门-用户4', 'goal_data': '3000.0', 'percentage_data': '0.5'}Actual_result:'
+'{'count': '16.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:39.716000
+['按用户查看第二季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '12.0', ' user_name': '产品部-用户3', 'goal_data': '3000.0', 'percentage_data': '0.4'}Actual_result:'
+'{'count': '12.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:39.717000
+['按用户查看第二季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户2', 'goal_data': '3000.0', 'percentage_data': '0.3'}Actual_result:'
+'{'count': '8.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:39.717000
+['按用户查看第二季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '4.0', ' user_name': '设计部-用户1', 'goal_data': '3000.0', 'percentage_data': '0.1'}Actual_result:'
+'{'count': '4.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:39.718000
+['按用户查看第二季度产品分类销量数']中间统计排名: is wrong, expected_result:'
+'{'count': '144', 'goal_data': '24000', 'percentage_data': '0.6'}Actual_result:'
+'{'count': '144.0'},2019-03-21 14:57:39.718000
+['按用户查看第二季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '3000.0', 'percentage_data': '1.1'}Actual_result:'
+'{'count': '设计部二级部门.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:39.719000
+['按用户查看第二季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '28.0', ' user_name': '同部门下属-用户7', 'goal_data': '3000.0', 'percentage_data': '0.9'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:39.720000
+['按用户查看第二季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '主辅部门-用户6', 'goal_data': '3000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '设计部， 产品部.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:39.720000
+['按用户查看第二季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '20.0', ' user_name': '销售部-用户5', 'goal_data': '3000.0', 'percentage_data': '0.7'}Actual_result:'
+'{'count': '销售部.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:39.721000
+['按用户查看第二季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部子部门-用户4', 'goal_data': '3000.0', 'percentage_data': '0.5'}Actual_result:'
+'{'count': '设计部子部门.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:39.721000
+['按用户查看第二季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '12.0', ' user_name': '产品部-用户3', 'goal_data': '3000.0', 'percentage_data': '0.4'}Actual_result:'
+'{'count': '产品部.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:39.722000
+['按用户查看第二季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户2', 'goal_data': '3000.0', 'percentage_data': '0.3'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:39.723000
+['按用户查看第二季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '4.0', ' user_name': '设计部-用户1', 'goal_data': '3000.0', 'percentage_data': '0.1'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:39.723000
+['按用户查看第三季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '64.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '3000.0', 'percentage_data': '2.1'}Actual_result:'
+'{'count': '64.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:41.506000
+['按用户查看第三季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '56.0', ' user_name': '同部门下属-用户7', 'goal_data': '3000.0', 'percentage_data': '1.9'}Actual_result:'
+'{'count': '56.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:41.507000
+['按用户查看第三季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '48.0', ' user_name': '主辅部门-用户6', 'goal_data': '3000.0', 'percentage_data': '1.6'}Actual_result:'
+'{'count': '48.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:41.508000
+['按用户查看第三季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '40.0', ' user_name': '销售部-用户5', 'goal_data': '3000.0', 'percentage_data': '1.3'}Actual_result:'
+'{'count': '40.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:41.509000
+['按用户查看第三季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部子部门-用户4', 'goal_data': '3000.0', 'percentage_data': '1.1'}Actual_result:'
+'{'count': '32.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:41.510000
+['按用户查看第三季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '产品部-用户3', 'goal_data': '3000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '24.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:41.511000
+['按用户查看第三季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部-用户2', 'goal_data': '3000.0', 'percentage_data': '0.5'}Actual_result:'
+'{'count': '16.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:41.512000
+['按用户查看第三季度产品分类销量数']图表的排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户1', 'goal_data': '3000.0', 'percentage_data': '0.3'}Actual_result:'
+'{'count': '8.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:41.513000
+['按用户查看第三季度产品分类销量数']中间统计排名: is wrong, expected_result:'
+'{'count': '288', 'goal_data': '24000', 'percentage_data': '1.2'}Actual_result:'
+'{'count': '288.0'},2019-03-21 14:57:41.513000
+['按用户查看第三季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '64.0', ' user_name': '设计部二级部门-用户8', 'goal_data': '3000.0', 'percentage_data': '2.1'}Actual_result:'
+'{'count': '设计部二级部门.0', ' user_name': '设计部二级部门-用户8'},2019-03-21 14:57:41.514000
+['按用户查看第三季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '56.0', ' user_name': '同部门下属-用户7', 'goal_data': '3000.0', 'percentage_data': '1.9'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '同部门下属-用户7'},2019-03-21 14:57:41.515000
+['按用户查看第三季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '48.0', ' user_name': '主辅部门-用户6', 'goal_data': '3000.0', 'percentage_data': '1.6'}Actual_result:'
+'{'count': '设计部， 产品部.0', ' user_name': '主辅部门-用户6'},2019-03-21 14:57:41.515000
+['按用户查看第三季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '40.0', ' user_name': '销售部-用户5', 'goal_data': '3000.0', 'percentage_data': '1.3'}Actual_result:'
+'{'count': '销售部.0', ' user_name': '销售部-用户5'},2019-03-21 14:57:41.516000
+['按用户查看第三季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '32.0', ' user_name': '设计部子部门-用户4', 'goal_data': '3000.0', 'percentage_data': '1.1'}Actual_result:'
+'{'count': '设计部子部门.0', ' user_name': '设计部子部门-用户4'},2019-03-21 14:57:41.516000
+['按用户查看第三季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '24.0', ' user_name': '产品部-用户3', 'goal_data': '3000.0', 'percentage_data': '0.8'}Actual_result:'
+'{'count': '产品部.0', ' user_name': '产品部-用户3'},2019-03-21 14:57:41.517000
+['按用户查看第三季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '16.0', ' user_name': '设计部-用户2', 'goal_data': '3000.0', 'percentage_data': '0.5'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户2'},2019-03-21 14:57:41.517000
+['按用户查看第三季度产品分类销量数']表格排名: is wrong, expected_result:'
+'{'count': '8.0', ' user_name': '设计部-用户1', 'goal_data': '3000.0', 'percentage_data': '0.3'}Actual_result:'
+'{'count': '设计部.0', ' user_name': '设计部-用户1'},2019-03-21 14:57:41.518000

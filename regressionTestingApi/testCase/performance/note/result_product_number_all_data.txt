@@ -1,0 +1,56 @@
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 一月'], 'count': 72.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:42.977000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 三月'], 'count': 72.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:42.980000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 五月'], 'count': 72.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:42.983000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 七月'], 'count': 72.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:42.988000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 九月'], 'count': 72.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:42.992000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 十一月'], 'count': 72.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:42.997000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 一月', '2019 二月', '2019 三月'], 'count': 144.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:43.002000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 四月', '2019 五月', '2019 六月'], 'count': 72.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:43.006000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 七月', '2019 八月', '2019 九月'], 'count': 144.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:43.008000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 十月', '2019 十一月', '2019 十二月'], 'count': 72.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:43.010000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 一月', '2019 二月', '2019 三月', '2019 四月', '2019 五月', '2019 六月', '2019 七月', '2019 八月', '2019 九月', '2019 十月', '2019 十一月', '2019 十二月'], 'count': 432.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:43.012000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 一月', '2019 二月', '2019 三月', '2019 四月', '2019 五月', '2019 六月'], 'count': 216.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:43.014000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 七月', '2019 八月', '2019 九月', '2019 十月', '2019 十一月', '2019 十二月'], 'count': 216.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:43.015000
+运行结果: is wrong'
+'expected_result:'
+'[{'month': ['2019 四月', '2019 五月', '2019 六月', '2019 七月', '2019 八月'], 'count': 144.0}]'
+'Actual_result:Actual_result,2019-03-13 17:25:43.017000

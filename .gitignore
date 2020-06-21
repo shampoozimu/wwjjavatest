@@ -1,0 +1,9 @@
+__pycache__
+__pycache__/*
+report
+report/*
+.idea
+.idea/*
+workspace.xml
+/regressionTestingApi/status_code.txt
+/regressionTestingApi/status_code_ok.txt

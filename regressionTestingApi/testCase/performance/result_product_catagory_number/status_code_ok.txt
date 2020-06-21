@@ -1,0 +1,25 @@
+2019-03-21 14:54:14 18049905933role：超管
+2019-03-21 14:54:15: get cookie status_code is right 200  200
+2019-03-21 14:54:15:  status_code is right 200  200
+2019-03-21 14:55:56 18049905933role：超管
+2019-03-21 14:55:56: get cookie status_code is right 200  200
+2019-03-21 14:55:57:  status_code is right 200  200
+2019-03-21 14:57:03 18049905933role：超管
+2019-03-21 14:57:04: get cookie status_code is right 200  200
+2019-03-21 14:57:05:  status_code is right 200  200
+2019-03-21 14:57:32 18049905933role：超管
+2019-03-21 14:57:32: get cookie status_code is right 200  200
+2019-03-21 14:57:33:  status_code is right 200  200
+2019-03-21 14:57:34 18049905933role：超管
+2019-03-21 14:57:34: get cookie status_code is right 200  200
+2019-03-21 14:57:35:  status_code is right 200  200
+2019-03-21 14:57:36 18049905933role：超管
+2019-03-21 14:57:36: get cookie status_code is right 200  200
+2019-03-21 14:57:37:  status_code is right 200  200
+2019-03-21 14:57:38 18049905933role：超管
+2019-03-21 14:57:38: get cookie status_code is right 200  200
+2019-03-21 14:57:39:  status_code is right 200  200
+2019-03-21 14:57:39 18049905933role：超管
+2019-03-21 14:57:40: get cookie status_code is right 200  200
+2019-03-21 14:57:41:  status_code is right 200  200
+2019-03-21 14:57:41 18049905933role：超管

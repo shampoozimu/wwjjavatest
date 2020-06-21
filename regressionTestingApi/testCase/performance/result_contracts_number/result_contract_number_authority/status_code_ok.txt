@@ -1,0 +1,100 @@
+2019-04-04 17:13:24 18049905933role：超管
+2019-04-04 17:13:25: get cookie status_code is right 200  200
+2019-04-04 17:13:27: get_role_list status_code is right 200  200
+2019-04-04 17:13:28: get_role_list status_code is right 200  200
+2019-04-04 17:13:29: get_role_list status_code is right 200  200
+2019-04-04 17:13:30: get_role_list status_code is right 200  200
+2019-04-04 17:13:31: seteqwe_data_authority status_code is right 200  200
+2019-04-04 17:13:33 15000249334role：普通管理员
+2019-04-04 17:13:34: get cookie status_code is right 200  200
+2019-04-04 17:13:36:  status_code is right 200  200
+2019-04-04 17:13:38 15000249334role：普通管理员
+2019-04-04 17:13:39: get cookie status_code is right 200  200
+2019-04-04 17:13:41:  status_code is right 200  200
+2019-04-04 17:13:43 15000249334role：普通管理员
+2019-04-04 17:13:44: get cookie status_code is right 200  200
+2019-04-04 17:13:46:  status_code is right 200  200
+2019-04-04 17:13:48 15000249334role：普通管理员
+2019-04-04 17:13:49: get cookie status_code is right 200  200
+2019-04-04 17:13:50:  status_code is right 200  200
+2019-04-04 17:13:53 15000249334role：普通管理员
+2019-04-04 17:13:53: get cookie status_code is right 200  200
+2019-04-04 17:13:55:  status_code is right 200  200
+2019-04-04 17:13:57 15000249334role：普通管理员
+2019-04-04 17:13:58: get cookie status_code is right 200  200
+2019-04-04 17:13:59:  status_code is right 200  200
+2019-04-04 17:14:00 18049905933role：超管
+2019-04-04 17:14:01: get cookie status_code is right 200  200
+2019-04-04 17:14:02: get_role_list status_code is right 200  200
+2019-04-04 17:14:03: get_role_list status_code is right 200  200
+2019-04-04 17:14:04: get_role_list status_code is right 200  200
+2019-04-04 17:14:05: get_role_list status_code is right 200  200
+2019-04-04 17:14:06: seteqwe_data_authority status_code is right 200  200
+2019-04-04 17:14:09 15000249334role：普通管理员
+2019-04-04 17:14:10: get cookie status_code is right 200  200
+2019-04-04 17:14:11:  status_code is right 200  200
+2019-04-04 17:14:14 15000249334role：普通管理员
+2019-04-04 17:14:14: get cookie status_code is right 200  200
+2019-04-04 17:14:16:  status_code is right 200  200
+2019-04-04 17:14:18 15000249334role：普通管理员
+2019-04-04 17:14:19: get cookie status_code is right 200  200
+2019-04-04 17:14:21:  status_code is right 200  200
+2019-04-04 17:14:23 15000249334role：普通管理员
+2019-04-04 17:14:24: get cookie status_code is right 200  200
+2019-04-04 17:14:25:  status_code is right 200  200
+2019-04-04 17:14:28 15000249334role：普通管理员
+2019-04-04 17:14:29: get cookie status_code is right 200  200
+2019-04-04 17:14:30:  status_code is right 200  200
+2019-04-04 17:14:33 15000249334role：普通管理员
+2019-04-04 17:14:33: get cookie status_code is right 200  200
+2019-04-04 17:14:35:  status_code is right 200  200
+2019-04-04 17:14:36 18049905933role：超管
+2019-04-04 17:14:36: get cookie status_code is right 200  200
+2019-04-04 17:14:38: get_role_list status_code is right 200  200
+2019-04-04 17:14:39: get_role_list status_code is right 200  200
+2019-04-04 17:14:41: get_role_list status_code is right 200  200
+2019-04-04 17:14:41: get_role_list status_code is right 200  200
+2019-04-04 17:14:43: seteqwe_data_authority status_code is right 200  200
+2019-04-04 17:14:45 15000249334role：普通管理员
+2019-04-04 17:14:46: get cookie status_code is right 200  200
+2019-04-04 17:14:48:  status_code is right 200  200
+2019-04-04 17:14:50 15000249334role：普通管理员
+2019-04-04 17:14:52: get cookie status_code is right 200  200
+2019-04-04 17:14:53:  status_code is right 200  200
+2019-04-04 17:14:56 15000249334role：普通管理员
+2019-04-04 17:14:57: get cookie status_code is right 200  200
+2019-04-04 17:14:58:  status_code is right 200  200
+2019-04-04 17:15:01 15000249334role：普通管理员
+2019-04-04 17:15:02: get cookie status_code is right 200  200
+2019-04-04 17:15:03:  status_code is right 200  200
+2019-04-04 17:15:06 15000249334role：普通管理员
+2019-04-04 17:15:06: get cookie status_code is right 200  200
+2019-04-04 17:15:08:  status_code is right 200  200
+2019-04-04 17:15:10 15000249334role：普通管理员
+2019-04-04 17:15:11: get cookie status_code is right 200  200
+2019-04-04 17:15:13:  status_code is right 200  200
+2019-04-04 17:15:13 18049905933role：超管
+2019-04-04 17:15:14: get cookie status_code is right 200  200
+2019-04-04 17:15:16: get_role_list status_code is right 200  200
+2019-04-04 17:15:17: get_role_list status_code is right 200  200
+2019-04-04 17:15:18: get_role_list status_code is right 200  200
+2019-04-04 17:15:19: get_role_list status_code is right 200  200
+2019-04-04 17:15:20: seteqwe_data_authority status_code is right 200  200
+2019-04-04 17:15:23 15000249334role：普通管理员
+2019-04-04 17:15:24: get cookie status_code is right 200  200
+2019-04-04 17:15:25:  status_code is right 200  200
+2019-04-04 17:15:27 15000249334role：普通管理员
+2019-04-04 17:15:28: get cookie status_code is right 200  200
+2019-04-04 17:15:30:  status_code is right 200  200
+2019-04-04 17:15:32 15000249334role：普通管理员
+2019-04-04 17:15:33: get cookie status_code is right 200  200
+2019-04-04 17:15:34:  status_code is right 200  200
+2019-04-04 17:15:37 15000249334role：普通管理员
+2019-04-04 17:15:38: get cookie status_code is right 200  200
+2019-04-04 17:15:39:  status_code is right 200  200
+2019-04-04 17:15:41 15000249334role：普通管理员
+2019-04-04 17:15:42: get cookie status_code is right 200  200
+2019-04-04 17:15:43:  status_code is right 200  200
+2019-04-04 17:15:46 15000249334role：普通管理员
+2019-04-04 17:15:47: get cookie status_code is right 200  200
+2019-04-04 17:15:48:  status_code is right 200  200

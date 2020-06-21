@@ -1,0 +1,6 @@
+case 1: exist_amountfunds is wrong 116.8300 0.0
+case 1: unpaid_amountfunds is wrong 0.5000 117.33
+case 1: exist_amountfunds is wrong 117.3300 0.0
+case 1: unpaid_amountfunds is wrong 0.0000 117.33
+case 1: exist_amountfunds is wrong 117.3300 0.0
+case 1: unpaid_amountfunds is wrong 0.0000 117.33

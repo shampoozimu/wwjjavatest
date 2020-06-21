@@ -1,0 +1,67 @@
+spring:
+  datasource:
+    #使用druid连接池
+    type: com.alibaba.druid.pool.DruidDataSource
+  data:
+    mongodb:
+      uri: mongodb://twe_test:Zwei7MMqmlX3Zi1O@dds-m5e686962c7b71641431-pub.mongodb.rds.aliyuncs.com:3717,dds-m5e686962c7b71642821-pub.mongodb.rds.aliyuncs.com:3717
+      database: enterprise
+      authentication-database: User
+      connections-per-host: 8
+      #线程队列数，它以上面connectionsPerHost值相乘的结果就是线程队列最大值
+      threads-allowed-to-block-for-connection-multiplier: 4
+      connect-timeout: 1000
+      max-wait-time: 1500
+      #控制是否在一个连接时，系统会自动重试
+      auto-connect-retry: true
+      socket-keep-alive: true
+      socket-timeout: 1500
+      slave-ok: true
+      write-number: 1
+      write-timeout: 0
+      write-fsync: true
+
+cingulate:
+  datasource:
+    #druid相关配置
+    druid:
+      #监控统计拦截的filters
+      filters: stat
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      #配置基本属性
+#      url: jdbc:mysql://192.168.56.101/api_test?characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
+#      username: root
+#      password: 123456
+      url: jdbc:mysql://rm-m5eu4m6a4rugr22fc.mysql.rds.aliyuncs.com/api_test?characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
+#      url: jdbc:mysql://rm-m5eu4m6a4rugr22fcno.mysql.rds.aliyuncs.com/api_test?characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
+      username: api_test
+      password: xpkpCJvFuzZHCiaA
+      #配置初始化大小/最小/最大
+      initialSize: 1
+      minIdle: 1
+      maxActive: 10
+      #获取连接等待超时时间
+      maxWait: 60000
+      #间隔多久进行一次检测，检测需要关闭的空闲连接
+      timeBetweenEvictionRunsMillis: 60000
+      #一个连接在池中最小生存的时间
+      minEvictableIdleTimeMillis: 300000
+      validationQuery: SELECT 'x'
+      testWhileIdle: true
+      testOnBorrow: false
+      testOnReturn: false
+      #打开PSCache，并指定每个连接上PSCache的大小。oracle设为true，mysql设为false。分库分表较多推荐设置为false
+      poolPreparedStatements: false
+      maxPoolPreparedStatementPerConnectionSize: 20
+      connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
+
+mybatis:
+  configuration:
+    #配置项：开启下划线到驼峰的自动转换. 作用：将数据库字段根据驼峰规则自动注入到对象属性。
+    map-underscore-to-camel-case: true
+    type-aliases-package: com.neurosurgery.hypophysis.model
+
+logging:
+  level:
+    root: debugger
+    com.neurosurgery.hypophysis.model: debugger

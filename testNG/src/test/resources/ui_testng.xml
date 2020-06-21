@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Second suite" verbose="1" group-by-instances="true">
+    <test name="UiTest">
+        <classes>
+            <class name="com.neurosurgery.hypophysis.UiAutomationTests"/>
+        </classes>
+    </test>
+</suite>
+        <!--mvnw clean test -Dpriority=1 -Dproject=openapi-->

@@ -1,0 +1,233 @@
+2019-03-07 16:49:53: add product status_code is right 200  200
+2019-03-07 17:30:03: add product status_code is right 200  200
+2019-03-07 17:45:57: add product status_code is right 200  200
+2019-03-07 17:46:28: add product status_code is right 200  200
+2019-03-07 17:48:33: add product status_code is right 200  200
+2019-03-07 17:49:19: add product status_code is right 200  200
+2019-03-07 17:49:19: get product 128559 info  status_code is right 200  200
+2019-03-07 17:51:19: add product status_code is right 200  200
+2019-03-07 17:51:19: get product 128560 info  status_code is right 200  200
+2019-03-07 17:51:51: add product status_code is right 200  200
+2019-03-07 17:51:51: get product 128561 info  status_code is right 200  200
+2019-03-07 17:53:05: add product status_code is right 200  200
+2019-03-07 17:53:05: get product 128562 info  status_code is right 200  200
+2019-03-07 17:53:44: add product status_code is right 200  200
+2019-03-07 17:53:44: get product 128563 info  status_code is right 200  200
+2019-03-07 17:54:52: add product status_code is right 200  200
+2019-03-07 17:54:52: get product 128564 info  status_code is right 200  200
+2019-03-07 17:55:19: add product status_code is right 200  200
+2019-03-07 17:55:19: get product 128565 info  status_code is right 200  200
+2019-03-07 18:03:46: add product status_code is right 200  200
+2019-03-07 18:03:46: get product 128566 info  status_code is right 200  200
+2019-03-07 18:04:07: add product status_code is right 200  200
+2019-03-07 18:04:08: get product 128567 info  status_code is right 200  200
+2019-03-07 18:04:42: add product status_code is right 200  200
+2019-03-07 18:04:42: get product 128568 info  status_code is right 200  200
+2019-03-07 18:13:14: add product status_code is right 200  200
+2019-03-07 18:13:14: get product 128569 info  status_code is right 200  200
+2019-03-07 18:43:00: add product status_code is right 200  200
+2019-03-07 18:43:01: get product 128570 info  status_code is right 200  200
+2019-03-07 18:43:29: add product status_code is right 200  200
+2019-03-07 18:43:30: get product 128571 info  status_code is right 200  200
+2019-03-07 18:43:30: post new purchase order status_code is right 200  200
+2019-03-07 18:44:30: add product status_code is right 200  200
+2019-03-07 18:44:30: get product 128572 info  status_code is right 200  200
+2019-03-07 18:44:31: post new purchase order status_code is right 200  200
+2019-03-07 18:45:07: add product status_code is right 200  200
+2019-03-07 18:45:07: get product 128573 info  status_code is right 200  200
+2019-03-07 18:45:07: post new purchase order status_code is right 200  200
+2019-03-07 18:45:28: add product status_code is right 200  200
+2019-03-07 18:45:28: get product 128574 info  status_code is right 200  200
+2019-03-07 18:45:29: post new purchase order status_code is right 200  200
+2019-03-07 18:47:47: add product status_code is right 200  200
+2019-03-07 18:47:47: get product 128575 info  status_code is right 200  200
+2019-03-07 18:47:48: post new purchase order status_code is right 200  200
+2019-03-07 18:49:58: add product status_code is right 200  200
+2019-03-07 18:49:58: get product 128576 info  status_code is right 200  200
+2019-03-07 18:49:59: post new purchase order status_code is right 200  200
+2019-03-07 19:21:08: add product status_code is right 200  200
+2019-03-07 19:21:08: get product 128577 info  status_code is right 200  200
+2019-03-07 19:21:08: post new purchase order status_code is right 200  200
+2019-03-07 19:22:10: add product status_code is right 200  200
+2019-03-07 19:22:10: get product 128578 info  status_code is right 200  200
+2019-03-07 19:22:11: post new purchase order status_code is right 200  200
+2019-03-07 19:24:53: add product status_code is right 200  200
+2019-03-07 19:24:53: get product 128579 info  status_code is right 200  200
+2019-03-07 19:24:53: post new purchase order status_code is right 200  200
+2019-03-08 11:16:38: add product status_code is right 200  200
+2019-03-08 11:16:39: get product 128580 info  status_code is right 200  200
+2019-03-08 11:16:39: post new purchase order status_code is right 200  200
+2019-03-08 11:38:29: add product status_code is right 200  200
+2019-03-08 11:38:29: get product 128581 info  status_code is right 200  200
+2019-03-08 11:38:30: post new purchase order status_code is right 200  200
+2019-03-08 11:38:30: verify purchase order status_code is right 200  200
+2019-03-08 11:57:15: get product items for purhcase order 3277 status_code is right 200  200
+2019-03-08 13:35:08: get product items for purhcase order 3277 status_code is right 200  200
+2019-03-08 13:35:23: get product items for purhcase order 3277 status_code is right 200  200
+2019-03-08 13:47:58: get product items for purhcase order 3277 status_code is right 200  200
+2019-03-08 13:54:58: add product status_code is right 200  200
+2019-03-08 13:54:58: get product 128582 info  status_code is right 200  200
+2019-03-08 13:54:59: post new purchase order status_code is right 200  200
+2019-03-08 13:54:59: verify purchase order status_code is right 200  200
+2019-03-08 13:55:00: get product items for purhcase order 3278 status_code is right 200  200
+2019-03-08 13:56:19: add product status_code is right 200  200
+2019-03-08 13:56:20: get product 128583 info  status_code is right 200  200
+2019-03-08 13:56:20: post new purchase order status_code is right 200  200
+2019-03-08 13:56:21: verify purchase order status_code is right 200  200
+2019-03-08 13:56:21: get product items for purhcase order 3279 status_code is right 200  200
+2019-03-08 13:58:29: add product status_code is right 200  200
+2019-03-08 13:58:30: get product 128584 info  status_code is right 200  200
+2019-03-08 13:58:31: post new purchase order status_code is right 200  200
+2019-03-08 13:58:31: verify purchase order status_code is right 200  200
+2019-03-08 13:58:32: get product items for purhcase order 3280 status_code is right 200  200
+2019-03-08 13:58:50: add product status_code is right 200  200
+2019-03-08 13:58:50: get product 128585 info  status_code is right 200  200
+2019-03-08 13:58:50: post new purchase order status_code is right 200  200
+2019-03-08 13:58:51: verify purchase order status_code is right 200  200
+2019-03-08 13:58:51: get product items for purhcase order 3281 status_code is right 200  200
+2019-03-08 14:17:44: add product status_code is right 200  200
+2019-03-08 14:17:45: get product 128586 info  status_code is right 200  200
+2019-03-08 14:17:45: post new purchase order status_code is right 200  200
+2019-03-08 14:17:46: verify purchase order status_code is right 200  200
+2019-03-08 14:17:46: get product items for purhcase order 3282 status_code is right 200  200
+2019-03-08 14:18:38: add product status_code is right 200  200
+2019-03-08 14:18:38: get product 128587 info  status_code is right 200  200
+2019-03-08 14:18:39: post new purchase order status_code is right 200  200
+2019-03-08 14:18:39: verify purchase order status_code is right 200  200
+2019-03-08 14:18:39: get product items for purhcase order 3283 status_code is right 200  200
+2019-03-08 14:21:23: add product status_code is right 200  200
+2019-03-08 14:21:24: get product 128588 info  status_code is right 200  200
+2019-03-08 14:21:24: post new purchase order status_code is right 200  200
+2019-03-08 14:21:25: verify purchase order status_code is right 200  200
+2019-03-08 14:21:25: get product items for purhcase order 3284 status_code is right 200  200
+2019-03-08 14:22:29: add product status_code is right 200  200
+2019-03-08 14:22:29: get product 128589 info  status_code is right 200  200
+2019-03-08 14:22:30: post new purchase order status_code is right 200  200
+2019-03-08 14:22:30: verify purchase order status_code is right 200  200
+2019-03-08 14:22:31: get product items for purhcase order 3285 status_code is right 200  200
+2019-03-08 14:22:47: add product status_code is right 200  200
+2019-03-08 14:22:48: get product 128590 info  status_code is right 200  200
+2019-03-08 14:22:48: post new purchase order status_code is right 200  200
+2019-03-08 14:22:49: verify purchase order status_code is right 200  200
+2019-03-08 14:22:49: get product items for purhcase order 3286 status_code is right 200  200
+2019-03-08 14:26:33: add product status_code is right 200  200
+2019-03-08 14:26:34: get product 128591 info  status_code is right 200  200
+2019-03-08 14:26:34: post new purchase order status_code is right 200  200
+2019-03-08 14:26:35: verify purchase order status_code is right 200  200
+2019-03-08 14:26:35: get product items for purhcase order 3287 status_code is right 200  200
+2019-03-08 14:27:01: add product status_code is right 200  200
+2019-03-08 14:27:01: get product 128592 info  status_code is right 200  200
+2019-03-08 14:27:02: post new purchase order status_code is right 200  200
+2019-03-08 14:27:02: verify purchase order status_code is right 200  200
+2019-03-08 14:27:03: get product items for purhcase order 3288 status_code is right 200  200
+2019-03-08 14:27:36: add product status_code is right 200  200
+2019-03-08 14:27:36: get product 128593 info  status_code is right 200  200
+2019-03-08 14:27:37: post new purchase order status_code is right 200  200
+2019-03-08 14:27:37: verify purchase order status_code is right 200  200
+2019-03-08 14:27:38: get product items for purhcase order 3289 status_code is right 200  200
+2019-03-08 14:29:30: add product status_code is right 200  200
+2019-03-08 14:29:31: get product 128594 info  status_code is right 200  200
+2019-03-08 14:29:31: post new purchase order status_code is right 200  200
+2019-03-08 14:29:32: verify purchase order status_code is right 200  200
+2019-03-08 14:29:32: get product items for purhcase order 3290 status_code is right 200  200
+2019-03-08 14:29:54: add product status_code is right 200  200
+2019-03-08 14:29:54: get product 128595 info  status_code is right 200  200
+2019-03-08 14:29:55: post new purchase order status_code is right 200  200
+2019-03-08 14:29:55: verify purchase order status_code is right 200  200
+2019-03-08 14:29:56: get product items for purhcase order 3291 status_code is right 200  200
+2019-03-08 14:29:56: post new purchase order status_code is right 200  200
+2019-03-08 14:30:11: add product status_code is right 200  200
+2019-03-08 14:30:12: get product 128596 info  status_code is right 200  200
+2019-03-08 14:30:12: post new purchase order status_code is right 200  200
+2019-03-08 14:30:13: verify purchase order status_code is right 200  200
+2019-03-08 14:30:13: get product items for purhcase order 3292 status_code is right 200  200
+2019-03-08 14:30:14: post new purchase order status_code is right 200  200
+2019-03-08 14:30:29: add product status_code is right 200  200
+2019-03-08 14:30:43: add product status_code is right 200  200
+2019-03-08 14:30:56: add product status_code is right 200  200
+2019-03-08 14:30:56: get product 128599 info  status_code is right 200  200
+2019-03-08 14:30:57: post new purchase order status_code is right 200  200
+2019-03-08 14:30:57: verify purchase order status_code is right 200  200
+2019-03-08 14:30:58: get product items for purhcase order 3293 status_code is right 200  200
+2019-03-08 14:30:58: post new purchase order status_code is right 200  200
+2019-03-08 14:31:09: add product status_code is right 200  200
+2019-03-08 14:31:09: get product 128600 info  status_code is right 200  200
+2019-03-08 14:31:10: post new purchase order status_code is right 200  200
+2019-03-08 14:31:10: verify purchase order status_code is right 200  200
+2019-03-08 14:31:10: get product items for purhcase order 3294 status_code is right 200  200
+2019-03-08 14:31:11: post new purchase order status_code is right 200  200
+2019-03-08 14:31:25: add product status_code is right 200  200
+2019-03-08 14:31:25: get product 128601 info  status_code is right 200  200
+2019-03-08 14:31:26: post new purchase order status_code is right 200  200
+2019-03-08 14:31:26: verify purchase order status_code is right 200  200
+2019-03-08 14:31:27: get product items for purhcase order 3295 status_code is right 200  200
+2019-03-08 14:31:27: post new purchase order status_code is right 200  200
+2019-03-08 15:58:54: add product status_code is right 200  200
+2019-03-08 15:58:54: get product 128602 info  status_code is right 200  200
+2019-03-08 15:58:55: post new purchase order status_code is right 200  200
+2019-03-08 15:58:55: verify purchase order status_code is right 200  200
+2019-03-08 15:58:56: get product items for purhcase order 3296 status_code is right 200  200
+2019-03-08 15:58:56: post new purchase order status_code is right 200  200
+2019-03-08 15:59:31: add product status_code is right 200  200
+2019-03-08 15:59:32: get product 128603 info  status_code is right 200  200
+2019-03-08 15:59:32: post new purchase order status_code is right 200  200
+2019-03-08 15:59:33: verify purchase order status_code is right 200  200
+2019-03-08 15:59:33: get product items for purhcase order 3297 status_code is right 200  200
+2019-03-08 15:59:34: post new purchase order status_code is right 200  200
+2019-03-08 16:35:05: add product status_code is right 200  200
+2019-03-08 16:37:33: add product status_code is right 200  200
+2019-03-08 16:37:34: get product 128605 info  status_code is right 200  200
+2019-03-08 16:37:34: post new purchase order status_code is right 200  200
+2019-03-08 16:37:35: verify purchase order status_code is right 200  200
+2019-03-08 16:37:35: get product items for purhcase order 3298 status_code is right 200  200
+2019-03-08 16:37:36: post new purchase order status_code is right 200  200
+2019-03-08 16:38:20: add product status_code is right 200  200
+2019-03-08 16:38:20: get product 128606 info  status_code is right 200  200
+2019-03-08 16:38:21: post new purchase order status_code is right 200  200
+2019-03-08 16:38:21: verify purchase order status_code is right 200  200
+2019-03-08 16:38:21: get product items for purhcase order 3299 status_code is right 200  200
+2019-03-08 16:38:22: post new purchase order status_code is right 200  200
+2019-03-08 16:39:31: add product status_code is right 200  200
+2019-03-08 16:39:31: get product 128607 info  status_code is right 200  200
+2019-03-08 16:39:31: post new purchase order status_code is right 200  200
+2019-03-08 16:39:32: verify purchase order status_code is right 200  200
+2019-03-08 16:39:32: get product items for purhcase order 3300 status_code is right 200  200
+2019-03-08 16:39:33: post new purchase order status_code is right 200  200
+2019-03-08 16:40:45: add product status_code is right 200  200
+2019-03-08 16:40:45: get product 128608 info  status_code is right 200  200
+2019-03-08 16:40:45: post new purchase order status_code is right 200  200
+2019-03-08 16:40:46: verify purchase order status_code is right 200  200
+2019-03-08 16:40:46: get product items for purhcase order 3301 status_code is right 200  200
+2019-03-08 16:40:47: post new purchase order status_code is right 200  200
+2019-03-08 16:41:17: add product status_code is right 200  200
+2019-03-08 16:41:17: get product 128609 info  status_code is right 200  200
+2019-03-08 16:41:17: post new purchase order status_code is right 200  200
+2019-03-08 16:41:18: verify purchase order status_code is right 200  200
+2019-03-08 16:41:18: get product items for purhcase order 3302 status_code is right 200  200
+2019-03-08 16:41:19: post new purchase order status_code is right 200  200
+2019-03-08 16:42:29: add product status_code is right 200  200
+2019-03-08 16:42:29: get product 128610 info  status_code is right 200  200
+2019-03-08 16:42:30: post new purchase order status_code is right 200  200
+2019-03-08 16:42:31: verify purchase order status_code is right 200  200
+2019-03-08 16:42:31: get product items for purhcase order 3303 status_code is right 200  200
+2019-03-08 16:42:31: post new purchase order status_code is right 200  200
+2019-03-08 16:42:32: verify purchase order status_code is right 200  200
+2019-03-08 16:48:51: add product status_code is right 200  200
+2019-03-08 16:49:42: add product status_code is right 200  200
+2019-03-08 16:49:42: get product 128611 info  status_code is right 200  200
+2019-03-08 16:49:42: post new purchase order status_code is right 200  200
+2019-03-08 16:49:43: verify purchase order status_code is right 200  200
+2019-03-08 16:49:43: get product items for purhcase order 3304 status_code is right 200  200
+2019-03-08 16:49:44: post new purchase order status_code is right 200  200
+2019-03-08 16:49:45: verify purchase order status_code is right 200  200
+2019-03-08 17:17:19: get product inventory flow status_code is right 200  200
+2019-03-08 17:25:01: get product inventory flow status_code is right 200  200
+2019-03-08 17:25:40: get product inventory flow status_code is right 200  200
+2019-03-08 17:36:38: add product status_code is right 200  200
+2019-03-08 17:36:38: get product 128612 info  status_code is right 200  200
+2019-03-08 17:36:38: post new purchase order status_code is right 200  200
+2019-03-08 17:36:39: verify purchase order status_code is right 200  200
+2019-03-08 17:36:39: get product items for purhcase order 3305 status_code is right 200  200
+2019-03-08 17:36:40: post new purchase order status_code is right 200  200
+2019-03-08 17:36:41: verify purchase order status_code is right 200  200
+2019-03-08 17:36:41: get product inventory flow status_code is right 200  200

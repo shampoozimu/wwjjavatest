@@ -1,0 +1,44 @@
+2019-03-27 09:36:36 18049903011role：1234
+2019-03-27 09:36:38: get cookie status_code is right 200  200
+2019-03-27 09:36:41: 关闭合同审批 status_code is right 200  200
+2019-03-27 09:36:41: 开启合同审批 status_code is right 200  200
+2019-03-27 09:36:42: 开启1级合同审批 status_code is right 200  200
+2019-03-27 09:36:42: 获取用户ID status_code is right 200  200
+2019-03-27 09:36:43: 获取用户的的部门 status_code is right 200  200
+2019-03-27 09:36:45: 新增客户 api是https://ding-test.ikcrm.com/api/customers status_code is right 200  200
+2019-03-27 09:36:45: 获取用户ID status_code is right 200  200
+2019-03-27 09:36:46: 获取用户的的部门 status_code is right 200  200
+2019-03-27 09:36:47: 开启审批新增合同 api是https://ding-test.ikcrm.com/api/contracts status_code is right 200  200
+2019-04-04 09:44:27 18049903011role：1234
+2019-04-04 09:44:28: get cookie status_code is right 200  200
+2019-04-04 09:44:29: 关闭合同审批 status_code is right 200  200
+2019-04-04 09:44:30: 开启合同审批 status_code is right 200  200
+2019-04-04 09:44:30: 开启1级合同审批 status_code is right 200  200
+2019-04-04 09:44:31: 获取用户ID status_code is right 200  200
+2019-04-04 09:44:32: 获取用户的的部门 status_code is right 200  200
+2019-04-04 09:44:32: 新增客户 api是https://ding-staging.ikcrm.com/api/customers status_code is right 200  200
+2019-04-04 09:44:33: 获取用户ID status_code is right 200  200
+2019-04-04 09:44:34: 获取用户的的部门 status_code is right 200  200
+2019-04-04 09:44:34: 开启审批新增合同 api是https://ding-staging.ikcrm.com/api/contracts status_code is right 200  200
+2019-04-04 09:45:26 18049903011role：1234
+2019-04-04 09:45:27: get cookie status_code is right 200  200
+2019-04-04 09:53:36 17111111111role：1234
+2019-04-04 09:53:36: get cookie status_code is right 200  200
+2019-04-04 09:53:50: 关闭合同审批 status_code is right 200  200
+2019-04-04 09:54:11 17111111111role：1234
+2019-04-04 09:54:12: get cookie status_code is right 200  200
+2019-04-04 09:56:37 17111111111role：1234
+2019-04-04 09:56:38: get cookie status_code is right 200  200
+2019-04-04 09:57:39 17111111111role：1234
+2019-04-04 09:57:40: get cookie status_code is right 200  200
+2019-04-04 09:59:30 17111111111role：1234
+2019-04-04 09:59:31: get cookie status_code is right 200  200
+2019-04-04 09:59:32: 关闭合同审批 status_code is right 200  200
+2019-04-04 09:59:32: 开启合同审批 status_code is right 200  200
+2019-04-04 09:59:33: 开启1级合同审批 status_code is right 200  200
+2019-04-04 09:59:33: 获取用户ID status_code is right 200  200
+2019-04-04 09:59:34: 获取用户的的部门 status_code is right 200  200
+2019-04-04 09:59:35: 新增客户 api是https://ding-staging.ikcrm.com/api/customers status_code is right 200  200
+2019-04-04 09:59:35: 获取用户ID status_code is right 200  200
+2019-04-04 09:59:36: 获取用户的的部门 status_code is right 200  200
+2019-04-04 09:59:36: 开启审批新增合同 api是https://ding-staging.ikcrm.com/api/contracts status_code is right 200  200
